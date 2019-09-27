@@ -1,6 +1,6 @@
 # Prueba
 Prueba de programación 
-# Datospersonales 
+# Datos personales   
 # Nombres:
 * Pilatasig Calvopiña Jeferson Richard 
 * Lozada Mayorga Darwin Fabricio 
